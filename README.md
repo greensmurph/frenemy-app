@@ -1,1 +1,1 @@
-# frenemy-test
+# frenemy-app
